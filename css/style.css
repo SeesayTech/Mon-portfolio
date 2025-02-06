@@ -337,7 +337,8 @@ main {
 }
 .courses {
   padding: 1rem;
-  width: 100%;
+  width: 80%;
+  margin: 0 auto;
 }
 .course {
   display: flex;
