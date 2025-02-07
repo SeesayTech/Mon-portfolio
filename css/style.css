@@ -524,6 +524,7 @@ main {
   border-radius: 12px;
   background-color: var(--black);
   position: relative;
+  overflow: hidden;
 }
 
 .project div:has(h3) {
